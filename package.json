@@ -1,0 +1,38 @@
+{
+  "name": "sphinx",
+  "description": "Guards your objects against unwanted tampering.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jasonbellamy/sphinx",
+  "author": {
+    "name": "Jason Bellamy",
+    "email": "j@sonbellamy.com",
+    "url": "http://jasonbellamy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonbellamy/sphinx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonbellamy/sphinx/issues"
+  },
+  "license": "MIT",
+  "main": "lib/sphinx",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "3.1.2"
+  },
+  "dependencies": {},
+  "keywords": [
+    "guard",
+    "config",
+    "options",
+    "object"
+  ],
+  "private": true
+}
