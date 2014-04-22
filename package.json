@@ -33,6 +33,5 @@
     "config",
     "options",
     "object"
-  ],
-  "private": true
+  ]
 }
