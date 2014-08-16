@@ -1,6 +1,6 @@
 {
   "name": "sphinx",
-  "description": "Guards your objects against unwanted tampering.",
+  "description": "Recursively merges and guards your objects against unwanted tampering.",
   "version": "0.1.1",
   "homepage": "https://github.com/jasonbellamy/sphinx",
   "author": {
