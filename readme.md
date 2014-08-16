@@ -1,14 +1,13 @@
 # Sphinx [![Build Status](https://travis-ci.org/jasonbellamy/sphinx.png?branch=master)](https://travis-ci.org/jasonbellamy/sphinx)
 
-> Guards your objects against unwanted tampering.
+> Recursively merges and guards your objects against unwanted tampering.
 
 
 ## Features
-[Sphinx](https://github.com/jasonbellamy/sphinx) guards your objects by allowing you to:
+[Sphinx](https://github.com/jasonbellamy/sphinx) guards your objects during a merge by allowing you to:
 
 - only change the values for properties that exist on the destination object.
 - only change the values for properties that are of the same type as the destination object.
-- check and merge infinitely nested objects.
 
 
 ## Getting Started
